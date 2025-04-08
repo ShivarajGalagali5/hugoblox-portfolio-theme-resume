@@ -129,14 +129,14 @@ awards:
     url: https://learn.microsoft.com/en-us/certifications/azure-data-engineer/
     date: '2023-8-25'
     awarder: Microsoft
-    icon: Microsoft
+    icon: Coursera
     summary: |
       Earned certification validating expertise in integrating, transforming, and consolidating data from various structured and unstructured data systems into structures suitable for building analytics solutions on Microsoft Azure.
   - title: Data Engineering Training Certification
     url: https://www.happiestminds.com/
     date: '2022-10-01'
     awarder: StackRoute | Happiest Minds Technologies
-    icon: StackRoute
+    icon: Coursera
     summary: |
       Completed intensive Data Engineering training program focused on:
       - Designing and building robust ETL pipelines
@@ -146,7 +146,7 @@ awards:
     url: https://www.happiestminds.com/
     date: '2023-12-21'
     awarder: happiestminds
-    icon: trophy
+    icon: Coursera
     summary: |
       Awarded for key contributions towards enabling scalable ETL pipelines and enhancing data processing efficiency in TMF’s Audit Logs and BDR projects.
 ---
