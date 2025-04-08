@@ -45,7 +45,7 @@ education:
     date_start: 2018-06-01
     date_end: 2022-07-31
     summary: |
-      Thesis on _Smart Street Lighting System_. Supervised by [Padmini](https://example.com). Presented papers at  IEEE conference with the contributions being published in Springer journals.
+      Thesis on _Smart Street Lighting System_. Presented papers at  IEEE conference with the contributions being published in Journal.
     button:
       text: 'Smart Street Lighting System'
       url: 'https://ieeexplore.ieee.org/document/10060318'
