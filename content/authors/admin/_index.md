@@ -30,12 +30,12 @@ education:
       CGPA: 8.1/10
 
       Research Paper:
-        - Smart Street Lighting System – Adaptive and interactive system for energy conservation.
+      - Smart Street Lighting System – Adaptive and interactive system for energy conservation.
 
       Courses included:
-        - Data Structures and Algorithms
-        - Database Management Systems
-        - Cloud Computing
+      - Data Structures and Algorithms
+      - Database Management Systems
+      - Cloud Computing
 
 work:
   - position: Data Engineer
