@@ -14,8 +14,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:shivarajsgalagali5@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: ''
   - icon: brands/github
     url: https://github.com/shivaraj-galagali
   - icon: brands/linkedin
@@ -39,10 +37,6 @@ education:
         - Database Management Systems
         - Cloud Computing
 
-      button:
-        text: 'Read Thesis'
-        url: 'https://example.com'
-
 work:
   - position: Data Engineer
     company_name: Happiest Minds Technologies
@@ -50,7 +44,7 @@ work:
     company_logo: ''
     date_start: 2022-08-01
     date_end: ''
-    summary: |-
+    summary: |
       Responsibilities include:
       - Building and managing ETL pipelines using Azure Data Factory, Databricks, and SQL for various client projects.
       - Developed 50+ ADF pipelines for ERP data integration across multiple operating companies enabling centralized reporting (Customer & Supplier Data Platform).
