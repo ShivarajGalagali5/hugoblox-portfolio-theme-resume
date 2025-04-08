@@ -127,7 +127,7 @@ languages:
 awards:
   - title: Microsoft Certified Azure Data Engineer Associate (DP-203)
     url: https://learn.microsoft.com/en-us/certifications/azure-data-engineer/
-    date: '2023-8-25'
+    date: '2023-08-25'
     awarder: Microsoft
     icon: Coursera
     summary: |
