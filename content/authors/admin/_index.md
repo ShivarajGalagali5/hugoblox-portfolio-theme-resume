@@ -1,30 +1,15 @@
 ---
-# Display name
 title: Shivaraj Galagali
-
-# Name pronunciation (optional)
 name_pronunciation: Shiva-raj Gala-gali
-
-# Full name (for SEO)
 first_name: Shivaraj
 last_name: Galagali
-
-# Status emoji
 status:
   icon: ☕️
-
-# Is this the primary user of the site?
 superuser: true
-
-# Role/position/tagline
 role: Data Engineer
-
-# Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Happiest Minds Technologies
     url: https://www.happiestminds.com/
-
-# Social network links
 profiles:
   - icon: at-symbol
     url: 'mailto:shivarajsgalagali5@gmail.com'
@@ -47,15 +32,16 @@ education:
       CGPA: 8.1/10
 
       Research Paper:
-      - Smart Street Lighting System – Adaptive and interactive system for energy conservation.
+        - Smart Street Lighting System – Adaptive and interactive system for energy conservation.
 
       Courses included:
-      - Data Structures and Algorithms
-      - Database Management Systems
-      - Cloud Computing
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+        - Data Structures and Algorithms
+        - Database Management Systems
+        - Cloud Computing
+
+      button:
+        text: 'Read Thesis'
+        url: 'https://example.com'
 
 work:
   - position: Data Engineer
@@ -64,7 +50,7 @@ work:
     company_logo: ''
     date_start: 2022-08-01
     date_end: ''
-    summary: |2-
+    summary: |-
       Responsibilities include:
       - Building and managing ETL pipelines using Azure Data Factory, Databricks, and SQL for various client projects.
       - Developed 50+ ADF pipelines for ERP data integration across multiple operating companies enabling centralized reporting (Customer & Supplier Data Platform).
@@ -78,19 +64,15 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
         percent: 80
         icon: devicon/python
       - name: Azure Data Factory
-        description: ''
         percent: 85
         icon: devicon/azure
       - name: Databricks
-        description: ''
         percent: 75
         icon: devicon/databricks
       - name: SQL
-        description: ''
         percent: 80
         icon: devicon/mysql
   - name: Hobbies
@@ -98,15 +80,12 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Hiking
-        description: ''
         percent: 60
         icon: person-simple-walk
       - name: Cats
-        description: ''
         percent: 100
         icon: cat
       - name: Photography
-        description: ''
         percent: 80
         icon: camera
 
