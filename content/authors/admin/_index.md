@@ -50,15 +50,15 @@ education:
 
       Research Paper:
       - Smart Street Lighting System – Adaptive and interactive system for energy conservation.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+
 work:
   - position: Data Engineer
     company_name: Happiest Minds Technologies
