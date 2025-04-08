@@ -55,11 +55,6 @@ education:
     date_end: 2018-06-30
     summary: |
       Percentage: 95/100
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   
 work:
   - position: Data Engineer
