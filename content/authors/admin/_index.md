@@ -22,23 +22,21 @@ role: Data Engineer
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Happiest Minds Technologies
-    url: https://www.example.com/
+    url: https://www.happiestminds.com/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:shivarajsgalagali5@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: None
+    url: ''
   - icon: brands/github
     url: https://github.com/shivaraj-galagali
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/shivaraj-galagali/
   - icon: brands/instagram
     url: https://www.instagram.com/shivaraj_galagali
-
 
 education:
   - area: B.E in Computer Science
@@ -52,9 +50,9 @@ education:
       - Smart Street Lighting System – Adaptive and interactive system for energy conservation.
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Data Structures and Algorithms
+      - Database Management Systems
+      - Cloud Computing
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -62,7 +60,7 @@ education:
 work:
   - position: Data Engineer
     company_name: Happiest Minds Technologies
-    company_url: ''
+    company_url: https://www.happiestminds.com/
     company_logo: ''
     date_start: 2022-08-01
     date_end: ''
@@ -76,9 +74,6 @@ work:
       - Provided data quality checks, pre-escalation analysis, production support, and automation solutions.
       - Technologies: Azure Data Factory, Databricks, Synapse, SQL Server, Python, Flask, Event Grid, Logic Apps, Power BI.
 
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
@@ -86,14 +81,18 @@ skills:
         description: ''
         percent: 80
         icon: devicon/python
-      - name: RStudio
+      - name: Azure Data Factory
         description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        percent: 85
+        icon: devicon/azure
+      - name: Databricks
         description: ''
-        percent: 40
-        icon: devicon/pytorch
+        percent: 75
+        icon: devicon/databricks
+      - name: SQL
+        description: ''
+        percent: 80
+        icon: devicon/mysql
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -119,10 +118,6 @@ languages:
   - name: Kannada
     percent: 100
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Microsoft Certified: Azure Data Engineer Associate (DP-203)
     url: https://learn.microsoft.com/en-us/certifications/azure-data-engineer/
@@ -131,7 +126,7 @@ awards:
     icon: microsoft
     summary: |
       Earned certification validating expertise in integrating, transforming, and consolidating data from various structured and unstructured data systems into structures suitable for building analytics solutions on Microsoft Azure.
-  
+
   - title: Data Engineering Training Certification
     url: https://www.happiestminds.com/
     date: '2022-12-01'
@@ -162,4 +157,3 @@ awards:
 ---
 
 I am currently a Data Engineer at Happiest Minds Technologies, where I design and develop data engineering solutions leveraging Azure Cloud services, Databricks, and Python to drive business intelligence, operational efficiency, and data-driven decision making.
-
